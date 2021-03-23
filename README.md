@@ -7,3 +7,6 @@
 [2. 원격 접속이 왜 필요할까?](2.%20Why%20need%20Remote%20Terminal%20Connection.md)  
 [3. SSH VS Telnet](3.%20SSH%20vs%20Telnet.md)  
 [4. Finally](4.%Finally.md)
+
+# Velog
+[https://velog.io/@taki0412/학교-AI-동아리-딥러닝-서버컴-구축기](https://velog.io/@taki0412/학교-AI-동아리-딥러닝-서버컴-구축기)
